@@ -4,15 +4,14 @@
 | -- | -------- |
 | 1  | Which standards and certifications do you comply with? Examples are: `ISO 27001`, `ISO 27002`, `ISO 27017`, `ISO 22313`. |
 | 2  | How do you separate NAVs data and services from your other customers and what is the strength of this separation? | 
-| 3  | How is encryption used to separate data and services between customers? |
-| 4  | What resources will NAV be sharing with other customers? |
-| 5  | In what ways could your other customers affect the quality of the service or service levels you provide to NAV? |
-| 6  | Is it possible for NAV to have its services and data on dedicated hardware not shared with other customers? |
-| 7  | In which countries are NAVs data stored? |
-| 8  | When NAV has chosen a geographic location for services and storing of data, and this is changed by you, will NAV be notified? |
-| 9  | Who owns and operates your data centers and what physical and environment security measures are in place? |
-| 10 | Which parts of your infrastructure do you own and operate and which parts do you obtain from a service provider? |
-| 11 | If support personell from other (or new) countries are granted access to equipment at the geographical location NAV has chosen, will NAV be notified? |
+| 2  | - How is encryption used to separate data and services between customers? |
+| 2  | - What resources will NAV be sharing with other customers? |
+| 2  | - In what ways could your other customers affect the quality of the service or service levels you provide to NAV? |
+| 3  | Who owns and operates your data centers/infrastructure? |
+| 4  | In which countries are NAVs data stored? |
+| 4 | - If support personell from other (or new) countries are granted access to equipment at the geographical location NAV has chosen, will NAV be notified? |
+| 5  | When NAV has chosen a geographic location for services and storing of data, and this is changed by you, will NAV be notified? |
+
 | 12 | Describe how your administrators are authenticated, how administrator rights are granted and specify if the admin access is permanent? |
 | 13 | What means are provided for NAV to audit your access to NAV's data? |
 | 14 | How does NAV get out data if you go out of business? |
